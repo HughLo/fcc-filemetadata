@@ -1,0 +1,26 @@
+{
+  "name": "fcc-filemetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "font-awesome": "^4.6.3",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HughLo/fcc-filemetadata.git"
+  },
+  "author": "hugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HughLo/fcc-filemetadata/issues"
+  },
+  "homepage": "https://github.com/HughLo/fcc-filemetadata#readme"
+}
